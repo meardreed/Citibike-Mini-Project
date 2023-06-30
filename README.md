@@ -5,6 +5,9 @@
 <br>
 <br>For this challenge, we used November and December 2022 data to observe trends pertaining to end-of-year festivities and how they impact the Citi Bike program.
 
+Visualizations can be found by clicking below.
+https://public.tableau.com/app/profile/meardreed.vilmeus.delva/viz/challenge_16877471199320/Story1
+
 <br>The different questions that were asked are:
 <br>+How many trips have been recorded in total during the chosen period?
 <br>+What are the top/bottom 10 stations in the city for starting a journey? During the Holidays(Thanksgiving,Christmas)
