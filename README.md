@@ -3,7 +3,7 @@
 ![image](https://github.com/meardreed/Tableau-Challenge/assets/124413887/1597d15c-c77e-4526-a6f7-6b3498fffa2c)
 
 <br>
-<br>For this challenge, we used November and December 2022 data to observe trends pertaining to end-of-year festivities and how they impact the Citi Bike program.
+<br>For this project, we used November and December 2022 data to observe trends pertaining to end-of-year festivities and how they impact the Citi Bike program.
 
 Visualizations can be found by clicking below.
 https://public.tableau.com/app/profile/meardreed.vilmeus.delva/viz/challenge_16877471199320/Story1
